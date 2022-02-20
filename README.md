@@ -28,7 +28,7 @@ A challenge by Frondend mentor
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://github.com/lzeek/ntf-preview-card-component)
 
 ### Built with
 
