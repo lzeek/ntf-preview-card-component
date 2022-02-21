@@ -87,7 +87,6 @@ body{
 }
 
 /* Text style */
-
 .attribution{
 	padding: 50px;
 	font-size: 10pt;
@@ -98,7 +97,7 @@ body{
 	font-size: 10pt;
 }
 
-h1 ,.creator--name{
+h3 ,.creator--name{
 	color: hsl(0, 0%, 100%);
 	
 }
@@ -107,7 +106,7 @@ h1 ,.creator--name{
 	font-size: 15px;
 }
 
-h1:hover ,.creator--name:hover{
+h3:hover ,.creator--name:hover{
 	color:hsl(178, 100%, 50%); /*cyan*/
 	cursor: pointer;
 }
@@ -129,7 +128,7 @@ p, hr,.time--text{
 	margin: 0;
 }
 
-h1{
+h3{
 	font-size: 20px;
 	font-weight: 400;
 }
@@ -137,8 +136,4 @@ h1{
 hr{
    width: 100%;
    weight: 100;
-}
-
-a{
-  text-decoration: none;
 }
