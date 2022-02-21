@@ -97,7 +97,7 @@ body{
 	font-size: 10pt;
 }
 
-h3 ,.creator--name{
+h1 ,.creator--name{
 	color: hsl(0, 0%, 100%);
 	
 }
@@ -106,7 +106,7 @@ h3 ,.creator--name{
 	font-size: 15px;
 }
 
-h3:hover ,.creator--name:hover{
+h1:hover ,.creator--name:hover{
 	color:hsl(178, 100%, 50%); /*cyan*/
 	cursor: pointer;
 }
@@ -128,7 +128,7 @@ p, hr,.time--text{
 	margin: 0;
 }
 
-h3{
+h1{
 	font-size: 20px;
 	font-weight: 400;
 }
