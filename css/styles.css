@@ -87,6 +87,10 @@ body{
 }
 
 /* Text style */
+a{
+  text-decoration: none;
+}
+
 .attribution{
 	padding: 50px;
 	font-size: 10pt;
