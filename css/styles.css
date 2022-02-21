@@ -87,9 +87,6 @@ body{
 }
 
 /* Text style */
-a{
-  text-decoration: none;
-}
 
 .attribution{
 	padding: 50px;
@@ -140,4 +137,8 @@ h1{
 hr{
    width: 100%;
    weight: 100;
+}
+
+a{
+  text-decoration: none;
 }
